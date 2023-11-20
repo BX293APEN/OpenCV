@@ -8,6 +8,7 @@
 | `.channels()` | チャンネル数 |
 | `.elemSize()` | 1要素のサイズ [Byte] |
 | `.elemSize1()` | 1要素内の1ch分のサイズ [Byte] |
-| `.total()` | ステップ数 [Byte] |
+| `.total()` | 要素の総数 |
+| `.step` | ステップ数 [Byte] |
 | `.data[]` | データ配列 |
 
