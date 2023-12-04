@@ -12,3 +12,10 @@
 | `.step` | ステップ数 [Byte] |
 | `.data[]` | データ配列 |
 
+| FEATURE_DATA_FILE | 場所 |
+| ------------------- | -- |
+| haarcascade_eye.xml | 目 |
+| haarcascade_fullbody.xml | 全身|
+| haarcascade_upperbody.xml | 上半身 |
+| haarcascade_lowerbody.xml | 下半身 |
+| haarcascade_smile.xml | 笑顔 |
